@@ -1,0 +1,14 @@
+h1.color{
+	color:yellow;
+	font-size: 60px
+}
+
+h3.color{
+	font-size: 40px
+}
+
+body{
+	color: white;
+	background-color: black;
+	background-image: url("https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/734677_556658764358126_1768727042_n.jpg?oh=39c6ba1f5f9e643a8eaeb54ca362977c&oe=55804406&__gda__=1434819189_f18900274c0a6bdaf7ae9fcfc1af780b")
+}
