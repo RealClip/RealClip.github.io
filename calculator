@@ -1,0 +1,31 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+   <title>阿西計算機</title>
+   <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+   <link rel="stylesheet" type="text/css" href="app.css"
+
+</head>
+<body>
+<div style="background-image:url(http://www.wall001.com/nature/under_sky/mxxx01/[wall001.com]_sky_AP23092.jpg);width:1080px;height:600px;">
+<div>
+     <button>1</button>
+     <button>2</button>
+     <button>3</button>
+     <button>4</button>
+     <button>5</button>
+     <button>6</button>
+     <button>7</button>
+     <button>8</button>
+     <button>9</button>
+     <button>0</button>
+     <button>+</button>
+     <button>-</button>
+     <button>*</button>
+     <button>/</button>
+     <button>=</button>
+     <a href="javascript:window.close();">c (歸零)</a>
+<script type="text/javascript">
+　
+</script>
